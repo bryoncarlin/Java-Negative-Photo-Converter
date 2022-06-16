@@ -1,0 +1,10 @@
+1. To use the program, please open the welcome.java file within the BMP folder. 
+
+2. You will have three options on how you want to use the program. Option 1 will ask if you want to turn your BMP file into a negative still image, option 2 will give some help if your picture isn't working or tell you to contact me and lastly option 3 will just exit the program. All other inputs will be deemed invalid
+
+3. As noted when using this program in your own test enviorment please change the paths for your local enviorment in the BMP.java file to where you'd like this program to work.
+
+4. Sidenote this program was all written in Java using IntelliJ if possible try to use IntelliJ.
+
+5. Finally if you are having any issues please reach out to me at bryon.carlin@hotmail.com and I can help troubleshoot if the help option doesn't fix your issue.
+
