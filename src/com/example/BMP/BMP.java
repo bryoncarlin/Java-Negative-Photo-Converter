@@ -16,7 +16,7 @@ public class BMP {
 
         try {
             bmp = new File(
-                    "C:\\Users\\Bryon\\Desktop\\Blockapps-program/sample.bmp");
+                    "C:\\Users\\Bryon\\Documents\\GitHub\\Java Negative\\Java-Negative-Photo-Converter/sample.bmp");
             img = ImageIO.read(bmp);
         }
         catch (IOException e) {
@@ -48,7 +48,7 @@ public class BMP {
 
         try {
             bmp = new File(
-                    "C:\\Users\\Bryon\\Desktop\\Blockapps-program/sample1.bmp");
+                    "C:\\Users\\Bryon\\Documents\\GitHub\\Java Negative\\Java-Negative-Photo-Converter/sample1.bmp");
             ImageIO.write(img, "bmp", bmp);
         }
         catch (IOException e) {
